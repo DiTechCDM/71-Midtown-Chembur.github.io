@@ -1417,4 +1417,10 @@ figure:hover img {
     }
 }
 
+@media screen and (max-width: 576px) {
+      .address-line-row>div>img {
+        width: 45px;
+    }
+}
+
 /* contact us component ends here */
